@@ -88,7 +88,7 @@ A web platform for rental reservations, pricing logic, and customer automation.
 ---
 
 ## 📫 Connect
-- **Portfolio:** [Manuels Effe Behance Profile](https://behance.net/manuelseffe) or [difrek Case Studies ](https://difrek.com/case-studies/)
+- **Portfolio:** [Manuels Effe Behance Profile](https://behance.net/manuelseffe) or [Difrek Case Studies ](https://difrek.com/case-studies/)
 - **LinkedIn:** [Manuels Effe](https://linkedin.com/in/manuelseffe)  
 - **Email:** [inMail Manuels Effe](mailto:gatinboxda@gmail.com)  
 
